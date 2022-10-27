@@ -627,7 +627,7 @@ background-color: #1746A2;
     width:80vw;
     margin-right: 400px;
     height:100%;
-    background: url("../images/image3.jpeg") fixed 0 0;
+    background: url("../images/image3.jpeg");
     overflow:auto;
     background-size: cover;
 
