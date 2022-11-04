@@ -466,7 +466,7 @@ ul {
 @media screen and (max-width: 767px){
   .social nav{
     width:45px;
-
+    bottom: 66px;
   }
   .social nav li a i{
     left:10px;
